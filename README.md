@@ -9,3 +9,9 @@ CAPTCHAs are computer-generated tests that humans can pass but current computer 
 
 ### BLOCK DIAGRAM
 ![Block diagram!](https://github.com/AnoopPS02/2020_CSE_04/blob/main/Block%20Diagram.png)
+### Softwares Installed
+      1. Python3 - Packages required:
+
+             Captcha, TTS, ffmpeg, librosa, pillow. 
+
+      2. IDE - Visual Studio Code
